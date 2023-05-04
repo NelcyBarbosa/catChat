@@ -1,0 +1,29 @@
+header section.logo{
+    float: left;
+    width: 18%;
+}
+header img{
+    height: 100px;
+    display: inline-block;
+    margin-left: 0%;
+}
+nav ul{
+    list-style: none;
+    display: inline;
+}
+
+li{
+    display: inline-block;
+    margin-top: -13px;
+    margin-left: 20px;
+    list-style: none;
+    padding: 40px;
+}
+h1{
+    border:1px solid black ;
+    height: 500px;
+    font-size: 100px;
+    line-height: 120px;
+    float:left;
+    background-color: rgb(33, 33, 240);
+}
